@@ -1,4 +1,4 @@
-# Get People Budget Exercise
+# Word Search Exercise
 
 This challenge involves finding words in an 8x8 grid. Given a string of 64 *letters* and a string of words to find, convert the string to an 8x8 array, and return `true` if _all_ words in the string can be found in the array. Return `false` otherwise. Words can be read in any direction (horizontally, vertically or diagonally).
 
