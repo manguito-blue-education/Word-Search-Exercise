@@ -10,6 +10,6 @@
   "author": "Rodrigo Medina - r@manguitoblue.io",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^14.1.0"
+    "jest": "^9.1.0"
   }
 }
